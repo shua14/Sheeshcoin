@@ -45,3 +45,5 @@ Make sure to activate the virtual enviormen t
 ```
 export SEED_DATA=True && winpty python3.exe -m backend.app
 ```
+
+Attempt to fix 
